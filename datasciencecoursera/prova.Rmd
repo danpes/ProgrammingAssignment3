@@ -4,6 +4,7 @@ author: "Daniele Pes"
 date: "26 febbraio 2017"
 output: html_document
 Pes: provo a fare push su repository github
+ciao
 ---
 
 ```{r setup, include=FALSE}
